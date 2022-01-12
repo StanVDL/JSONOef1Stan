@@ -1,0 +1,17 @@
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.exe
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.csprojAssemblyReference.cache
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.AssemblyInfoInputs.cache
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.AssemblyInfo.cs
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\SMUtils.dll
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.csproj.CopyComplete
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.deps.json
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.runtimeconfig.json
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.runtimeconfig.dev.json
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.dll
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\JSONOef1Stan.pdb
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.csproj.CoreCompileInputs.cache
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.dll
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.pdb
+D:\Software Stan\JSON\Oef1\JSONOef1Stan\JSONOef1Stan\obj\Debug\netcoreapp3.1\JSONOef1Stan.genruntimeconfig.cache

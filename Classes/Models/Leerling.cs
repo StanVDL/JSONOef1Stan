@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace JSONOef1Stan
+namespace JSONOef1Stan.Classes.Models
 {
     class Leerling
     {

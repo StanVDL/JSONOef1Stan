@@ -1,0 +1,19 @@
+{
+  "Leerlingen": [
+    {
+      "Naam": "Stan",
+      "Leeftijd": 17,
+      "Klas": "6IT"
+    },
+    {
+      "Naam": "Seppe",
+      "Leeftijd": 18,
+      "Klas": "Mentaal Gehandicapt"
+    },
+    {
+      "Naam": "Wout",
+      "Leeftijd": 6,
+      "Klas": "4OND"
+    }
+  ]
+}
